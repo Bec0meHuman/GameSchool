@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameSchool", "GameSchool\GameSchool.csproj", "{EDE22FBA-D019-41CC-AA35-0D88CDF2915D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameSchoolTests", "GameSchoolTests\GameSchoolTests.csproj", "{C2292526-57F9-4129-9E75-163F2F446C24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDE22FBA-D019-41CC-AA35-0D88CDF2915D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE22FBA-D019-41CC-AA35-0D88CDF2915D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE22FBA-D019-41CC-AA35-0D88CDF2915D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE22FBA-D019-41CC-AA35-0D88CDF2915D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2292526-57F9-4129-9E75-163F2F446C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2292526-57F9-4129-9E75-163F2F446C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2292526-57F9-4129-9E75-163F2F446C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2292526-57F9-4129-9E75-163F2F446C24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAE92636-0617-42A6-B67D-2FA1540B00D9}
+	EndGlobalSection
+EndGlobal
